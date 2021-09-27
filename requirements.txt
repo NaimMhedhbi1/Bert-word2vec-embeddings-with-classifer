@@ -4,3 +4,4 @@ Unidecode
 loguru 
 git+https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer.git
 textblob
+
