@@ -30,5 +30,5 @@ test_data['text'] = preprocess_list
  
 
 logger.info("single prediction")
-review = 'ceproduit est bla bla'
+review = 'My Eyes - Taille-crayons'
 y_pred = predict(model, review, seq_length = MAX_SEQUENCE_LENGTH)

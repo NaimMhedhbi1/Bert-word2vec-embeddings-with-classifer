@@ -1,0 +1,2 @@
+1- I noticed that the performance of the model without cleaning is better. 
+2- the model is already trained and saved. in the single prediction you can load it with the function load_model. 
